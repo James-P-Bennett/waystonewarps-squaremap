@@ -1,6 +1,10 @@
 # WaystoneWarps-Squaremap
 
-Displays [WaystoneWarps](https://github.com/Mizarc/waystone-warps) as markers on Squaremap with tooltips showing waystone details.
+## Displays [WaystoneWarps](https://github.com/Mizarc/waystone-warps) as markers on Squaremap with tooltips showing waystone details.
+
+
+![Screenshot](https://raw.githubusercontent.com/James-P-Bennett/waystonewarps-squaremap/refs/heads/main/images/screenshot.png)
+
 
 ## Requirements
 
